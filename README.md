@@ -19,10 +19,7 @@ This repository contains various machine learning projects, including the implem
    ```
 2. Open the folder with a code editor.
 3. Open a terminal in your preferred code editor.
-4. Ensure you have the required Python packages installed. You can do this by running:
-     ```bash
-     pip install -r requirements.txt
-      ```
+4. Ensure you have the required Python packages installed. 
 5. Navigate to the desired notebook file and run the cells to see the results.
 
 ## What I Learned
